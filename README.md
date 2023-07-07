@@ -35,7 +35,7 @@
 </div>
 
 ## <img src="https://github.com/fluidicon.png" alt="Git Icon" width="24" height="24" style="vertical-align: middle;"> Github Stats
-<div style="text-align: center; margin:auto;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaoclaudioprestes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclaudioprestes&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699" alt="Top Langs">
-</div>
+</p>
