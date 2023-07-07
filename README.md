@@ -7,21 +7,22 @@
 ## 📞 Contato
 <p>
   <a href="https://instagram.com/jpres_tes" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram target="_blank"">
   </a>
   <a href="https://discord.gg/j_prestes" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" target="_blank">
   </a>
   <a href="mailto:joaoprestes17@outlook.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-claudio-prestes" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
   </a>
 </p>
 
 ## 🚀 Sobre Mim
-<p>Sou estudante de Ciência da Computação focado em Desenvolvimento Front-end, pronto para mergulhar no mundo profissional. Tenho uma verdadeira paixão por criar interfaces incríveis e interativas que deixam os usuários impressionados.</p>
+| Sou estudante de Ciência da Computação focado em Desenvolvimento Front-end, pronto para mergulhar no mundo profissional. Tenho uma verdadeira paixão por criar interfaces incríveis e interativas que deixam os usuários impressionados. | ![Imagem Sobre Mim](https://cdn.picrew.me/shareImg/org/202307/137904_xOHhz9pE.png) |
+| --- | --- |
 
 ## 💻 Tecnologias
 <div align="center">
