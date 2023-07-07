@@ -6,7 +6,7 @@
 </h2>
 
 <div>
-  <h3>Contato</h3>
+  <h3>📞 Contato</h3>
   <div style="display:inline-block;">
     <a href="https://instagram.com/jpres_tes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://discord.gg/j_prestes" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
@@ -30,7 +30,7 @@
   <br>
 </div>
 
-<div style="text-align: center;">
+<div style="text-align: center; margin:auto;">
   <h2><img src="https://github.com/fluidicon.png" alt="Git Icon" width="24" height="24" style="vertical-align: middle;"> Github Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=joaoclaudioprestes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclaudioprestes&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699" alt="Top Langs">
