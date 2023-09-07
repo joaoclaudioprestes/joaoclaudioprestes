@@ -41,4 +41,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclaudioprestes&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699" alt="Top Langs">
 </p>
 
-![snake gif](https://github.com/joaoclaudioprestes/joaoclaudioprestes/blob/output/github-contribution-grid-snake.svg)
