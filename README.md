@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/P2IoNGtXrBoAAAAC/super-mario-bros-mario.gif" width="100%">
+  <img src="https://i.pinimg.com/originals/9d/ea/64/9dea6422afee150cbe2f65b5317285eb.gif" width="100%">
 </p>
 
 <h2 align="center">Olá, me chamo João Claudio e este é o meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
