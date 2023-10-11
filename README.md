@@ -12,13 +12,13 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank">
   </a>
   <a href="https://discord.gg/j_prestes" target="_blank">
-    <img src="https://img.shields.io/badge-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" target="_blank">
   </a>
   <a href="mailto:joaoprestes17@outlook.com">
-    <img src="https://img.shields.io/badge-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-claudio-prestes" target="_blank">
-    <img src="https://img.shields.io/badge-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://cdn.picrew.me/shareImg/org/202307/137904_xOHhz9pE.png" alt="Imagem Sobre Mim" width="200">
 </p>
-<p align="center">
+<p>
   Sou estudante de Ciência da Computação focado em Desenvolvimento Front-end, pronto para mergulhar no mundo profissional. Tenho uma verdadeira paixão por criar interfaces incríveis e interativas que deixam os usuários impressionados. 🚀
 </p>
 
@@ -68,49 +68,6 @@
 <p align="center">
   Algumas das minhas experiências profissionais incluem:
   
-  - 👨‍💻 Estágio na Prefeitura Municipal de Araçoiaba da Serra/SP.
-
-  - 👨‍💼 Freelancer.
-</p>
-
-## 🏆 Conquistas
-<p align="center">
-  Alguns dos meus destaques incluem:
-  
-  - 🥇 1º Lugar na Competição de Design de Interfaces da [Nome da Competição](#).
-  - 🏅 Menção Honrosa no Concurso de Programação da [Nome do Evento](#).
-  - 🏆 Certificado de Excelência em Desenvolvimento Front-end da [Nome da Escola](#).
-</p>
-
-## 🎉 Hobbies
-<p align="center">
-  Nas horas vagas, gosto de:
-  
-  - 🎮 Jogar videogame
-  - 📚 Ler livros de ficção científica
-  - 🚴 Andar de bicicleta
-  - 🎨 Fazer pinturas digitais
-</p>
-
-## 🌐 Sites
-<p align="center">
-  Alguns sites que criei:
-  
-  1. [Nome do Site 1](#) - Descrição do site.
-  2. [Nome do Site 2](#) - Descrição do site.
-  3. [Nome do Site 3](#) - Descrição do site.
-</p>
-
-## 📫 Quer bater um papo?
-<p align="center">
-  Estou sempre aberto a conversar sobre tecnologia, desenvolvimento web ou apenas para fazer um novo amigo! Entre em contato comigo em qualquer uma das minhas redes sociais ou por e-mail.
-</p>
-
-<p align="center">
-  <a href="mailto:joaoprestes17@outlook.com">
-    <img src="https://img.shields.io/badge-Email-%23D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
-  </a>
-  <a href="https://discord.gg/j_prestes" target="_blank">
-    <img src="https://img.shields.io/badge-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" target="_blank">
-  </a>
+  - 👨‍💻 Estágio como Desenvolvedor Front-end na [Nome da Empresa](#).
+  - 👨‍💼 Freelancer de Design de Interface para [Nome do Cliente](#).
 </p>
