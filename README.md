@@ -71,3 +71,38 @@
   - 👨‍💻 Estágio como Desenvolvedor Front-end na [Nome da Empresa](#).
   - 👨‍💼 Freelancer de Design de Interface para [Nome do Cliente](#).
 </p>
+
+## 🏆 Certificações
+<p align="center">
+  Algumas das minhas certificações incluem:
+  
+  - 🎓 Certificado em Desenvolvimento Front-end Avançado
+  - 🏅 Certificado de Conclusão do Bootcamp em Programação Web
+  - 🏆 Certificado de Excelência em JavaScript
+</p
+
+## 🌐 Idiomas
+<p align="center">
+  Alguns dos idiomas em que tenho conhecimento e estou em constante evolução e aprendizado:
+  
+  - 🇺🇸 Inglês
+  - 🇪🇸 Espanhol
+</p>
+
+## 🎉 Hobbies
+<p align="center">
+  Nas horas vagas, gosto de:
+  
+  - 🎮 Jogar videogame
+  - 📚 Ler livros
+  - 🎬 Assistir séries e filmes
+  - 🚴 Andar de bicicleta
+</p>
+
+## 📫 Informações de Contato
+<p align="center">
+  Fique à vontade para entrar em contato comigo:
+  
+  - 📧 Email: [joaoprestes17@outlook.com](mailto:joaoprestes17@outlook.com)
+  - 💬 Discord: [j_prestes](https://discord.gg/j_prestes)
+</p>
