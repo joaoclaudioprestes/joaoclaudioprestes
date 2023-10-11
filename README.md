@@ -5,7 +5,7 @@
 <h2 align="center">Olá, me chamo João Claudio e este é o meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 
 ## 📞 Contato
-<p align="center">
+<p>
   Você pode me encontrar nas seguintes plataformas:
   
   <a href="https://instagram.com/jpres_tes" target="_blank">
@@ -23,7 +23,7 @@
 </p>
 
 ## 🚀 Sobre Mim
-<p align="center">
+<p>
   <img src="https://cdn.picrew.me/shareImg/org/202307/137904_xOHhz9pE.png" alt="Imagem Sobre Mim" width="200">
 </p>
 <p>
@@ -31,7 +31,7 @@
 </p>
 
 ## 💻 Tecnologias
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="30" width="40">
@@ -48,7 +48,7 @@
 </p>
 
 ## 📝 Projetos
-<p align="center">
+<p>
   Alguns dos meus projetos notáveis incluem:
   
   1. [Nome do Projeto 1](#) - Breve descrição do projeto.
@@ -57,7 +57,7 @@
 </p>
 
 ## 📚 Educação
-<p align="center">
+<p>
   Aqui estão alguns dos meus marcos educacionais:
   
   - 🎓 Graduando em Ciência da Computação na [Nome da Universidade](#).
@@ -65,7 +65,7 @@
 </p>
 
 ## 💼 Experiência Profissional
-<p align="center">
+<p>
   Algumas das minhas experiências profissionais incluem:
   
   - 👨‍💻 Estágio como Desenvolvedor Front-end na [Nome da Empresa](#).
@@ -73,7 +73,7 @@
 </p>
 
 ## 🏆 Certificações
-<p align="center">
+<p>
   Algumas das minhas certificações incluem:
   
   - 🎓 Certificado em Desenvolvimento Front-end Avançado
@@ -82,7 +82,7 @@
 </p
 
 ## 🌐 Idiomas
-<p align="center">
+<p>
   Alguns dos idiomas em que tenho conhecimento e estou em constante evolução e aprendizado:
   
   - 🇺🇸 Inglês
@@ -90,7 +90,7 @@
 </p>
 
 ## 🎉 Hobbies
-<p align="center">
+<p>
   Nas horas vagas, gosto de:
   
   - 🎮 Jogar videogame
@@ -100,7 +100,7 @@
 </p>
 
 ## 📫 Informações de Contato
-<p align="center">
+<p>
   Fique à vontade para entrar em contato comigo:
   
   - 📧 Email: [joaoprestes17@outlook.com](mailto:joaoprestes17@outlook.com)
