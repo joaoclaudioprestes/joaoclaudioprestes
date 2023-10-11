@@ -5,15 +5,15 @@
 <h2 align="center">Olá, me chamo João Claudio e este é o meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 
 ## 📞 Contato
-<p>
+<p align="center">
   <a href="https://instagram.com/jpres_tes" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram target="_blank"">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank">
   </a>
   <a href="https://discord.gg/j_prestes" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" target="_blank">
   </a>
   <a href="mailto:joaoprestes17@outlook.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-claudio-prestes" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
@@ -21,8 +21,12 @@
 </p>
 
 ## 🚀 Sobre Mim
-| Sou estudante de Ciência da Computação focado em Desenvolvimento Front-end, pronto para mergulhar no mundo profissional. Tenho uma verdadeira paixão por criar interfaces incríveis e interativas que deixam os usuários impressionados. | ![Imagem Sobre Mim](https://cdn.picrew.me/shareImg/org/202307/137904_xOHhz9pE.png) |
-| --- | --- |
+<p align="center">
+  <img src="https://cdn.picrew.me/shareImg/org/202307/137904_xOHhz9pE.png" alt="Imagem Sobre Mim" width="200">
+</p>
+<p>
+  Sou estudante de Ciência da Computação focado em Desenvolvimento Front-end, pronto para mergulhar no mundo profissional. Tenho uma verdadeira paixão por criar interfaces incríveis e interativas que deixam os usuários impressionados.
+</p>
 
 ## 💻 Tecnologias
 <div align="center">
@@ -40,4 +44,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=joaoclaudioprestes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclaudioprestes&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699" alt="Top Langs">
 </p>
-
