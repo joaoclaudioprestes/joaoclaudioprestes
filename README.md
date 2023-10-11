@@ -60,25 +60,24 @@
 <p>
   Aqui estão alguns dos meus marcos educacionais:
   
-  - 🎓 Graduando em Ciência da Computação na [Nome da Universidade](#).
-  - 🏫 Bootcamp em Desenvolvimento Front-end na [Nome da Escola](#).
+  - 🎓 Graduando em Ciência da Computação na [Universidade Paulista](https://unip.br).
+  - 🏫 Bootcamp em Ciência de Dados na [DIO](https://www.dio.me/).
 </p>
 
 ## 💼 Experiência Profissional
 <p>
   Algumas das minhas experiências profissionais incluem:
   
-  - 👨‍💻 Estágio como Desenvolvedor Front-end na [Nome da Empresa](#).
-  - 👨‍💼 Freelancer de Design de Interface para [Nome do Cliente](#).
+  - 👨‍💻 Estágio em TI [Prefeitura Municipal de Araçoiaba da Serra/SP](https://www.aracoiaba.sp.gov.br/).
+  - 👨‍💼 Freelancer.
 </p>
 
 ## 🏆 Certificações
 <p>
   Algumas das minhas certificações incluem:
   
-  - 🎓 Certificado em Desenvolvimento Front-end Avançado
-  - 🏅 Certificado de Conclusão do Bootcamp em Programação Web
-  - 🏆 Certificado de Excelência em JavaScript
+  - 🎓 [Potência Tech powered by iFood | Ciência de Dados](https://www.dio.me/certificate/2B9C9998/share)
+  - 🎓 [Programa TrendsIT Capacitação & Residência - Desenvolvimetno - Full-Stack](https://lp.workover.com.br/trendsit-univesp)
 </p
 
 ## 🌐 Idiomas
