@@ -51,9 +51,7 @@
 <p>
   Alguns dos meus projetos notáveis incluem:
   
-  1. [Nome do Projeto 1](#) - Breve descrição do projeto.
-  2. [Nome do Projeto 2](#) - Breve descrição do projeto.
-  3. [Nome do Projeto 3](#) - Breve descrição do projeto.
+  Em desenvolvimento.
 </p>
 
 ## 📚 Educação
