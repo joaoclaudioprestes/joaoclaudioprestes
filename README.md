@@ -1,31 +1,47 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/9d/ea/64/9dea6422afee150cbe2f65b5317285eb.gif" width="100%">
-</p>
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm João Prestes <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-<h2 align="center">Olá, sou João Claudio, e este é o meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
-## 🚀 Sobre Mim
-<p>
-  <img src="https://cdn.picrew.me/shareImg/org/202307/137904_xOHhz9pE.png" alt="Imagem Sobre Mim" width="200">
-</p>
-<p>
-  Estudante de Ciência da Computação com foco em Desenvolvimento Front-end, pronto para ingressar no mundo profissional. Apaixonado por criar interfaces incríveis e interativas que impressionam os usuários. 🚀
-</p>
+- 🎓 Currently pursuing my degree in Computer Science.
+- 💻 I have a keen interest in Front-end Development.
+- 🚀 Aspiring to become a skilled Software Engineer.
+- 🔧 Proficient in HTML, CSS, JavaScript, React, Node, SQL, Java, and Python.
+- 📚 Always eager to learn and enhance my knowledge.
+- 👥 Ready to contribute to dynamic teams on challenging projects.
+- 💡 Determined to make a positive impact in the world of technology.
 
-## 💻 Tecnologias
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" height="30" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="30" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="30" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="30" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="30" width="40">
-</p>
+<br>
 
-## <img src="https://github.com/fluidicon.png" alt="Git Icon" width="24" height="24" style="vertical-align: middle;"> Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaoclaudioprestes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclaudioprestes&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699" alt="Top Langs">
-</p>
+
+### Let's Connect! 🌐
+I'm open to new connections. Feel free to contact me:<img align="right" alt="PC GIF" src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="190" />
+
+- 📩 [Email](mailto:joaoprestes17@outlook.com)
+- 🤝 [LinkedIn](https://www.linkedin.com/in/joão-claudio-prestes)
+- 💼 [Portfolio](https://your-portfolio-website.com)
+
+<br>
+
+### GitHub Stats 📊
+
+<a href="https://github.com/joaoclaudioprestes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclaudioprestes&theme=dark&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/joaoclaudioprestes">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoclaudioprestes&show_icons=true&theme=dark&line_height=27" alt="João's GitHub Stats"/>
+</a>
+
+<br>
+
+### Languages and Tools 🔧
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
