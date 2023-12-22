@@ -4,25 +4,6 @@
 
 <h2 align="center">Olá, sou João Claudio, e este é o meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 
-## 📞 Contato
-<p>
-  Você pode me encontrar nas seguintes plataformas:
-  <p>
-    <a href="https://instagram.com/jpres_tes" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank">
-    </a>
-    <a href="https://discord.gg/j_prestes" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" target="_blank">
-    </a>
-    <a href="mailto:joaoprestes17@outlook.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-claudio-prestes" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
-    </a>
-  </p>
-</p>
-
 ## 🚀 Sobre Mim
 <p>
   <img src="https://cdn.picrew.me/shareImg/org/202307/137904_xOHhz9pE.png" alt="Imagem Sobre Mim" width="200">
@@ -48,59 +29,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclaudioprestes&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699" alt="Top Langs">
 </p>
 
-## 📝 Projetos
-<p>
-  Alguns dos meus projetos notáveis incluem:
-  
-  Em desenvolvimento.
-</p>
-
-## 📚 Educação
-<p>
-  Aqui estão alguns dos meus marcos educacionais:
-  
-  - 🎓 Graduando em Ciência da Computação na [Universidade Paulista](https://unip.br).
-  - 🏫 Bootcamp em Ciência de Dados na [DIO](https://www.dio.me/).
-</p>
-
-## 💼 Experiência Profissional
-<p>
-  Algumas das minhas experiências profissionais incluem:
-  
-  - 👨‍💻 Estágio em TI [Prefeitura Municipal de Araçoiaba da Serra/SP](https://www.aracoiaba.sp.gov.br/).
-  - 👨‍💼 Freelancer.
-</p>
-
-## 🏆 Certificações
-<p>
-  Algumas das minhas certificações incluem:
-  
-  - 🎓 [Potência Tech powered by iFood | Ciência de Dados](https://www.dio.me/certificate/2B9C9998/share)
-  - 🎓 [Programa TrendsIT Capacitação & Residência - Desenvolvimento - Full-Stack](https://lp.workover.com.br/trendsit-univesp)
-</p
-
-## 🌐 Idiomas
-<p>
-  Alguns dos idiomas em que tenho conhecimento e estou em constante evolução e aprendizado:
-  
-  - 🇺🇸 Inglês
-  - 🇪🇸 Espanhol
-</p>
-
-## 🎉 Hobbies
-<p>
-  Nas horas vagas, gosto de:
-  
-  - 🎮 Jogar videogame
-  - 📚 Ler livros
-  - 🎬 Assistir séries e filmes
-  - 🚴 Andar de bicicleta
-</p>
-
-## 📫 Informações de Contato
-<p>
-  Fique à vontade para entrar em contato comigo:
-  
-  - 📧 Email: [joaoprestes17@outlook.com](mailto:joaoprestes17@outlook.com)
-  - 💬 Discord: [j_prestes](https://discord.gg/j_prestes)
-</p>
