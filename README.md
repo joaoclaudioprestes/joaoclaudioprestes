@@ -25,11 +25,11 @@ I'm open to new connections. Feel free to contact me:<img align="right" alt="PC 
 ### GitHub Stats 📊
 
 <a href="https://github.com/joaoclaudioprestes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclaudioprestes&theme=dark&hide_langs_below=1" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclaudioprestes&theme=dark&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/joaoclaudioprestes">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoclaudioprestes&show_icons=true&theme=dark&line_height=27" alt="João's GitHub Stats"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=joaoclaudioprestes&show_icons=true&theme=dark&line_height=27" alt="João's GitHub Stats"/>
 </a>
 
 <br>
