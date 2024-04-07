@@ -18,7 +18,7 @@ I'm open to new connections. Feel free to contact me:<img align="right" alt="PC 
 
 - 📩 [Email](mailto:joaoprestes17@outlook.com)
 - 🤝 [LinkedIn](https://www.linkedin.com/in/joão-claudio-prestes)
-- 💼 [Portfolio](https://jprestes.vercel.br)
+- 💼 [Portfolio](https://jprestes.vercel.app)
 
 <br>
 
