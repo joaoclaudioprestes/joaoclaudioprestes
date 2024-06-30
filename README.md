@@ -10,15 +10,17 @@
 👥 Ready to contribute to dynamic teams on challenging projects.  
 💡 Determined to make a positive impact in the world of technology.  
 
+<br/>
+
 ### Let's Connect! 🌐
 
 I'm open to new connections. Feel free to contact me:
 
-<img align="right" alt="PC GIF" src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="190" />
-
 - 📩 [Email](mailto:joaoprestes17@outlook.com)  
 - 🤝 [LinkedIn](https://www.linkedin.com/in/joão-claudio-prestes)  
 - 💼 [Portfolio](https://jprestes.vercel.app)  
+
+<br/>
 
 ### GitHub Stats 📊
 
@@ -26,6 +28,8 @@ I'm open to new connections. Feel free to contact me:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoclaudioprestes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclaudioprestes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+<br/>
 
 ### Languages and Tools 🔧
 
