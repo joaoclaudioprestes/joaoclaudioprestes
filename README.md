@@ -16,7 +16,7 @@
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=joaoclaudioprestes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://streak-stats.demolab.com?user=joaoclaudioprestes&locale=pt-br&mode=daily&theme=aura&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
+<!--   <img src="https://streak-stats.demolab.com?user=joaoclaudioprestes&locale=pt-br&mode=daily&theme=aura&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoclaudioprestes&locale=pt-br&hide_title=false&layout=compact&card_width=395&langs_count=6&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
